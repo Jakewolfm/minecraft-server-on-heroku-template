@@ -142,3 +142,10 @@
 [14:09:07] [Server thread/INFO]: Preparing spawn area: 38%
 [14:09:08] [Server thread/INFO]: Preparing spawn area: 82%
 [14:09:09] [Server thread/INFO]: Done (22.880s)! For help, type "help" or "?"
+[14:12:43] [Server thread/INFO]: Stopping the server
+[14:12:43] [Server thread/INFO]: Stopping server
+[14:12:43] [Server thread/INFO]: Saving players
+[14:12:43] [Server thread/INFO]: Saving worlds
+[14:12:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:12:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[14:12:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

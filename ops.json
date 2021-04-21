@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "uuid": "8150bf0b-6ae9-4031-908a-6a4afb980137",
+    "name": "LeakZero",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8da4c030-dfad-42b4-9311-110cf037753f",
+    "name": "Vaarun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5f6b5e9a-56aa-3f7f-88a3-bc690cd7af5b",
+    "name": "Vaarun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "678ba75c-faee-4440-849e-154d1a3a11b0",
+    "name": "Slay",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

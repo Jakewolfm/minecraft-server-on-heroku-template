@@ -1,151 +1,106 @@
-[14:08:43] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[14:08:43] [Server thread/INFO]: Loading properties
-[14:08:44] [Server thread/INFO]: Default game type: SURVIVAL
-[14:08:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[14:08:44] [Server thread/INFO]: Unable to find file banned-players.json, creating it.
-[14:08:44] [Server thread/INFO]: Unable to find file banned-ips.json, creating it.
-[14:08:44] [Server thread/INFO]: Unable to find file ops.json, creating it.
-[14:08:44] [Server thread/INFO]: Unable to find file whitelist.json, creating it.
-[14:08:44] [Server thread/INFO]: Debug logging is disabled
-[14:08:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-
-[14:08:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:08:44] [Server thread/INFO]: Generating keypair
-[14:08:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:08:45] [Server thread/INFO]: Using default channel type
-[14:08:45] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
-[14:08:46] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[14:08:46] [Server thread/INFO]: Preparing level "world"
-[14:08:46] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:08:46] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:08:46] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:08:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:08:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:08:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:08:46] [Server thread/INFO]: Structure Info Saving: true
-[14:08:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:08:46] [Server thread/INFO]: Random Lighting Updates: false
-[14:08:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:08:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:08:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:08:46] [Server thread/INFO]: Max TNT Explosions: 100
-[14:08:46] [Server thread/INFO]: Max Entity Collisions: 8
-[14:08:46] [Server thread/INFO]: Sending up to 10 chunks per packet
-[14:08:46] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[14:08:46] [Server thread/INFO]: Clear tick list: false
-[14:08:46] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:08:46] [Server thread/INFO]: View Distance: 10
-[14:08:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:08:46] [Server thread/INFO]: Anti X-Ray: true
-[14:08:46] [Server thread/INFO]: 	Engine Mode: 1
-[14:08:46] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[14:08:46] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[14:08:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:08:46] [Server thread/INFO]: Mob Spawn Range: 4
-[14:08:46] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[14:08:46] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:08:46] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:08:46] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:08:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:08:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:08:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:08:46] [Server thread/INFO]: Structure Info Saving: true
-[14:08:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:08:46] [Server thread/INFO]: Random Lighting Updates: false
-[14:08:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:08:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:08:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:08:46] [Server thread/INFO]: Max TNT Explosions: 100
-[14:08:46] [Server thread/INFO]: Max Entity Collisions: 8
-[14:08:46] [Server thread/INFO]: Sending up to 10 chunks per packet
-[14:08:46] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[14:08:46] [Server thread/INFO]: Clear tick list: false
-[14:08:46] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:08:46] [Server thread/INFO]: View Distance: 10
-[14:08:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:08:46] [Server thread/INFO]: Anti X-Ray: true
-[14:08:46] [Server thread/INFO]: 	Engine Mode: 1
-[14:08:46] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[14:08:46] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[14:08:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:08:46] [Server thread/INFO]: Mob Spawn Range: 4
-[14:08:47] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[14:08:47] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:08:47] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:08:47] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:08:47] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:08:47] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:08:47] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:08:47] [Server thread/INFO]: Structure Info Saving: true
-[14:08:47] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:08:47] [Server thread/INFO]: Random Lighting Updates: false
-[14:08:47] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:08:47] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:08:47] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:08:47] [Server thread/INFO]: Max TNT Explosions: 100
-[14:08:47] [Server thread/INFO]: Max Entity Collisions: 8
-[14:08:47] [Server thread/INFO]: Sending up to 10 chunks per packet
-[14:08:47] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[14:08:47] [Server thread/INFO]: Clear tick list: false
-[14:08:47] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:08:47] [Server thread/INFO]: View Distance: 10
-[14:08:47] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:08:47] [Server thread/INFO]: Anti X-Ray: true
-[14:08:47] [Server thread/INFO]: 	Engine Mode: 1
-[14:08:47] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[14:08:47] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[14:08:47] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:08:47] [Server thread/INFO]: Mob Spawn Range: 4
-[14:08:47] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3393054528782002450)
-[14:08:48] [Server thread/INFO]: Preparing spawn area: 2%
-[14:08:49] [Server thread/INFO]: Preparing spawn area: 4%
-[14:08:50] [Server thread/INFO]: Preparing spawn area: 7%
-[14:08:51] [Server thread/INFO]: Preparing spawn area: 10%
-[14:08:52] [Server thread/INFO]: Preparing spawn area: 17%
-[14:08:53] [Server thread/INFO]: Preparing spawn area: 25%
-[14:08:54] [Server thread/INFO]: Preparing spawn area: 34%
-[14:08:55] [Server thread/INFO]: Preparing spawn area: 44%
-[14:08:56] [Server thread/INFO]: Preparing spawn area: 53%
-[14:08:57] [Server thread/INFO]: Preparing spawn area: 68%
-[14:08:58] [Server thread/INFO]: Preparing spawn area: 81%
-[14:08:59] [Server thread/INFO]: Preparing spawn area: 94%
-[14:09:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3393054528782002450)
-[14:09:01] [Server thread/INFO]: Preparing spawn area: 9%
-[14:09:02] [Server thread/INFO]: Preparing spawn area: 23%
-[14:09:03] [Server thread/INFO]: Preparing spawn area: 39%
-[14:09:04] [Server thread/INFO]: Preparing spawn area: 50%
-[14:09:05] [Server thread/INFO]: Preparing spawn area: 64%
-[14:09:06] [Server thread/INFO]: Preparing spawn area: 82%
-[14:09:06] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3393054528782002450)
-[14:09:07] [Server thread/INFO]: Preparing spawn area: 38%
-[14:09:08] [Server thread/INFO]: Preparing spawn area: 82%
-[14:09:09] [Server thread/INFO]: Done (22.880s)! For help, type "help" or "?"
-[14:12:43] [Server thread/INFO]: Stopping the server
-[14:12:43] [Server thread/INFO]: Stopping server
-[14:12:43] [Server thread/INFO]: Saving players
-[14:12:43] [Server thread/INFO]: Saving worlds
-[14:12:43] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[14:12:43] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[14:12:43] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[17:22:01] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[17:22:01] [Server thread/INFO]: Loading properties
+[17:22:01] [Server thread/INFO]: Default game type: SURVIVAL
+[17:22:01] [Server thread/INFO]: Generating keypair
+[17:22:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:22:01] [Server thread/INFO]: Using default channel type
+[17:22:01] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[17:22:03] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[17:22:03] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.z(SourceFile:99) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:25) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:504) [server.jar:git-Bukkit-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:831) [?:?]
+[17:22:03] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.y(SourceFile:91) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:27) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:504) [server.jar:git-Bukkit-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:831) [?:?]
+[17:22:03] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.A(SourceFile:107) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:29) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:504) [server.jar:git-Bukkit-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:831) [?:?]
+[17:22:03] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (The system cannot find the file specified)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153) ~[?:?]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.JsonList.load(JsonList.java:171) ~[server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.C(SourceFile:123) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedPlayerList.<init>(SourceFile:30) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:179) [server.jar:git-Bukkit-18fbb24]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:504) [server.jar:git-Bukkit-18fbb24]
+	at java.base/java.lang.Thread.run(Thread.java:831) [?:?]
+[17:22:03] [Server thread/INFO]: Preparing level "world"
+[17:22:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: 359880875074488646)
+[17:22:05] [Server thread/INFO]: Preparing spawn area: 3%
+[17:22:06] [Server thread/INFO]: Preparing spawn area: 5%
+[17:22:07] [Server thread/INFO]: Preparing spawn area: 5%
+[17:22:08] [Server thread/INFO]: Preparing spawn area: 6%
+[17:22:09] [Server thread/INFO]: Preparing spawn area: 8%
+[17:22:10] [Server thread/INFO]: Preparing spawn area: 11%
+[17:22:12] [Server thread/INFO]: Preparing spawn area: 14%
+[17:22:13] [Server thread/INFO]: Preparing spawn area: 15%
+[17:22:14] [Server thread/INFO]: Preparing spawn area: 15%
+[17:22:15] [Server thread/INFO]: Preparing spawn area: 20%
+[17:22:16] [Server thread/INFO]: Preparing spawn area: 23%
+[17:22:17] [Server thread/INFO]: Preparing spawn area: 26%
+[17:22:18] [Server thread/INFO]: Preparing spawn area: 26%
+[17:22:19] [Server thread/INFO]: Preparing spawn area: 30%
+[17:22:20] [Server thread/INFO]: Preparing spawn area: 37%
+[17:22:21] [Server thread/INFO]: Preparing spawn area: 46%
+[17:22:22] [Server thread/INFO]: Preparing spawn area: 50%
+[17:22:23] [Server thread/INFO]: Preparing spawn area: 57%
+[17:22:24] [Server thread/INFO]: Preparing spawn area: 62%
+[17:22:25] [Server thread/INFO]: Preparing spawn area: 65%
+[17:22:26] [Server thread/INFO]: Preparing spawn area: 70%
+[17:22:27] [Server thread/INFO]: Preparing spawn area: 78%
+[17:22:28] [Server thread/INFO]: Preparing spawn area: 85%
+[17:22:29] [Server thread/INFO]: Preparing spawn area: 94%
+[17:22:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: 359880875074488646)
+[17:22:31] [Server thread/INFO]: Preparing spawn area: 5%
+[17:22:34] [Server thread/INFO]: Preparing spawn area: 13%
+[17:22:35] [Server thread/INFO]: Preparing spawn area: 16%
+[17:22:36] [Server thread/INFO]: Preparing spawn area: 31%
+[17:22:37] [Server thread/INFO]: Preparing spawn area: 43%
+[17:22:38] [Server thread/INFO]: Preparing spawn area: 51%
+[17:22:39] [Server thread/INFO]: Preparing spawn area: 72%
+[17:22:40] [Server thread/INFO]: Preparing spawn area: 94%
+[17:22:40] [Server thread/INFO]: Preparing start region for level 2 (Seed: 359880875074488646)
+[17:22:41] [Server thread/INFO]: Preparing spawn area: 17%
+[17:22:43] [Server thread/INFO]: Preparing spawn area: 48%
+[17:22:44] [Server thread/INFO]: Preparing spawn area: 74%
+[17:22:45] [Server thread/INFO]: Preparing spawn area: 78%
+[17:22:46] [Server thread/INFO]: Preparing spawn area: 82%
+[17:22:46] [Server thread/INFO]: Done (43.192s)! For help, type "help" or "?"
+[17:22:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2467ms behind, skipping 49 tick(s)
+[17:22:58] [Server thread/INFO]: Stopping the server
+[17:22:59] [Server thread/INFO]: Stopping server
+[17:22:59] [Server thread/INFO]: Saving players
+[17:22:59] [Server thread/INFO]: Saving worlds
+[17:22:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:23:02] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:23:04] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
